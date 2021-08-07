@@ -18,37 +18,44 @@ After working with Amazing Prime, we created the movies data database. We create
 1.	Deliverable 1: Write an ETL Function to Read Three Data Files:
 
 #### Wiki_movies_df ####
-![alttext]( Queries/ wiki-movies_df.PNG) 
+![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/wiki-movies_df.png) 
 
 #### Kaggle_metadata_df ####
-![alttext]( Queries/Kaggle_metadata_df.PNG)
+![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/kaggle_metadata_df.PNG)
 
 #### Ratings_df ####
-![alttext]( Queries/ratings_df.PNG)
+![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/ratings_df.PNG)
 
 
 2.	Deliverable 2: Extract and Transform the Wikipedia Data:
 
 #### wiki-movies_df-clean ####
 
-![alttext]( Queries/ wiki-movies_df-clean.PNG)
+![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/wiki-movies_df-clean.png)
 
 #### Wiki-movies_df_list ####
 
-![alttext]( Queries/ wiki-movies_df_list.PNG )
-3.	Deliverable 3: Extract and Transform the Kaggle data:
-#### movies_with_ratings ####
-![alttext]( Queries/ movies_with_ratings.PNG )
+![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/wiki-movies_df-list.png)
 
-####Movies_Df ####
-![alttext]( Queries/ movies_df.PNG )
+
+3.	Deliverable 3: Extract and Transform the Kaggle data:
+
+#### movies_with_ratings ####
+
+![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/movies_with_ratings_df.PNG)
+
+#### Movies_Df ####
+
+![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/movies_df.PNG)
 
 4.	Deliverable 4: Create the Movie Database:
 #### ratings_query ####
-![alttext]( Queries/ ratings_query.PNG )
+
+![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/ratings_query.PNG)
 
 #### Movies_query ####
-![alttext]( Queries/ movies_query.PNG )
+
+![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/movies_query.png)
 
 ## Contributing 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

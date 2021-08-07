@@ -14,7 +14,9 @@ After working with Amazing Prime, we created the movies data database. We create
 •	Deliverable 4: Create the Movie Database
 
 ### Overview of Movies-ETL_Analysis:###
-1.	Deliverable 1: Write an ETL Function to Read Three Data Files
+
+1.	Deliverable 1: Write an ETL Function to Read Three Data Files:
+
 #### Wiki_movies_df ####
 ![alttext]( Queries/ wiki-movies_df.PNG) 
 

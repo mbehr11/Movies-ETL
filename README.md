@@ -7,10 +7,14 @@ Working with Amazing Prime using SQL with PGadmin4 and python
 
 After working with Amazing Prime, we created the movies data database. We created a function to extract, transform and load the data from the Wikipedia file, Kaggle movies-metadata and MovieLens ratings files in an automated process. This allows new data to be added, changed as necessary including removing blank or null rows and then load it into the existing movie database.
 
-#### The below pseudocode provided us an outline for the analysis ####
+#### The below pseudocode provided us an outline for the analysis
+
 •	Deliverable 1: Write an ETL Function to Read Three Data Files
+
 •	Deliverable 2: Extract and Transform the Wikipedia Data
+
 •	Deliverable 3: Extract and Transform the Kaggle data
+
 •	Deliverable 4: Create the Movie Database
 
 ### Overview of Movies-ETL_Analysis:###
@@ -44,7 +48,7 @@ After working with Amazing Prime, we created the movies data database. We create
 
 ![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/movies_with_ratings_df.PNG)
 
-#### Movies_Df ####
+#### Movies_Df
 
 ![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/movies_df.PNG)
 

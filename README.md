@@ -17,34 +17,37 @@ After working with Amazing Prime, we created the movies data database. We create
 
 •	Deliverable 4: Create the Movie Database
 
-### Overview of Movies-ETL_Analysis:###
+### Overview of Movies-ETL_Analysis:
 
 1.	Deliverable 1: Write an ETL Function to Read Three Data Files:
 
-#### Wiki_movies_df ####
+#### Wiki_movies_df
+
 ![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/wiki-movies_df.png) 
 
-#### Kaggle_metadata_df ####
+#### Kaggle_metadata_df 
+
 ![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/kaggle_metadata_df.PNG)
 
-#### Ratings_df ####
+#### Ratings_df
+
 ![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/ratings_df.PNG)
 
 
 2.	Deliverable 2: Extract and Transform the Wikipedia Data:
 
-#### wiki-movies_df-clean ####
+#### wiki-movies_df-clean 
 
 ![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/wiki-movies_df-clean.png)
 
-#### Wiki-movies_df_list ####
+#### Wiki-movies_df_list 
 
 ![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/wiki-movies_df-list.png)
 
 
 3.	Deliverable 3: Extract and Transform the Kaggle data:
 
-#### movies_with_ratings ####
+#### movies_with_ratings 
 
 ![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/movies_with_ratings_df.PNG)
 
@@ -53,15 +56,17 @@ After working with Amazing Prime, we created the movies data database. We create
 ![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/movies_df.PNG)
 
 4.	Deliverable 4: Create the Movie Database:
-#### ratings_query ####
+
+#### ratings_query
 
 ![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/ratings_query.PNG)
 
-#### Movies_query ####
+#### Movies_query
 
 ![alttext](https://github.com/mbehr11/Movies-ETL/blob/main/Queries/movies_query.png)
 
 ## Contributing 
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
